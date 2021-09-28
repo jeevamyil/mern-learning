@@ -1,0 +1,29 @@
+#card {
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(18, 123, 155, 0.25);
+  border-radius: 14px;
+  background-color: #e3f2ff;
+  width: 60%;
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+#img {
+  height: 55%;
+  border-radius: 14px;
+  width: 100%;
+}
+.btn {
+  border: 1px;
+  border-radius: 14px;
+}
+#card-body {
+  border-radius: 14px;
+
+  background-color: white;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}

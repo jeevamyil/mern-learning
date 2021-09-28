@@ -1,0 +1,31 @@
+.Modal {
+  position: fixed;
+  display: flex;
+  left: 0;
+  background-color: gray;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  align-items: center;
+  justify-content: center;
+}
+
+.ModalContent {
+  background-color: honeydew;
+  width: 500px;
+  border-radius: 10px;
+}
+.ModalHeader,
+.ModalFooter {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.ModalBody {
+  margin-top: 5px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+}
