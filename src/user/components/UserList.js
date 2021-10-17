@@ -10,7 +10,7 @@ const UserList = (props) => {
     );
   }
   return (
-    <ul>
+    <div className='container'>
       {props.items.map((item) => (
         <User
           key={item.id}
@@ -20,7 +20,7 @@ const UserList = (props) => {
           places={item.placeCount}
         />
       ))}
-    </ul>
+    </div>
   );
 };
 
