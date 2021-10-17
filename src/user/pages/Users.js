@@ -6,22 +6,19 @@ const Users = () => {
     {
       id: "u1",
       name: "mat",
-      image:
-        "https://webimages.mongodb.com/_com_assets/cms/kobuybqq12c9ya16f-mernstack_visualized.png?auto=format%2Ccompress",
+      image:"https://media.istockphoto.com/vectors/profile-icon-male-avatar-portrait-casual-person-vector-id530827853?k=6&m=530827853&s=170667a&w=0&h=inEm9JhbGdvhKKelvzdyR44pNG5CU98DQ0goRhKLViA=",
       placeCount: 3,
     },
     {
       id: "u2",
       name: "math",
-      image:
-        "https://webimages.mongodb.com/_com_assets/cms/kobuybqq12c9ya16f-mernstack_visualized.png?auto=format%2Ccompress",
+      image:"https://media.istockphoto.com/vectors/profile-icon-male-avatar-portrait-casual-person-vector-id530827853?k=6&m=530827853&s=170667a&w=0&h=inEm9JhbGdvhKKelvzdyR44pNG5CU98DQ0goRhKLViA=",
       placeCount: 2,
     },
     {
       id: "u3",
       name: "tom",
-      image:
-        "https://webimages.mongodb.com/_com_assets/cms/kobuybqq12c9ya16f-mernstack_visualized.png?auto=format%2Ccompress",
+      image:"https://media.istockphoto.com/vectors/profile-icon-male-avatar-portrait-casual-person-vector-id530827853?k=6&m=530827853&s=170667a&w=0&h=inEm9JhbGdvhKKelvzdyR44pNG5CU98DQ0goRhKLViA=",
       placeCount: 1,
     },
   ];
